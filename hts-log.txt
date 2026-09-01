@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 12 Aug 2024 19:46:22 at https://officeprodeals.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://officeprodeals.com/ -O1 "C:\My Web Sites\Microsoft Ecom Buy Office small website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:47:58	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/Microsoft Ecom Buy Office small website/officeprodeals.com/wp-content/plugins/testimonial-slider-and-showcase/assets/images/skype.svg
+19:47:58	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/Microsoft Ecom Buy Office small website/officeprodeals.com/wp-content/plugins/testimonial-slider-and-showcase/assets/images/telegram.svg
+19:47:59	Warning: 	Moved Permanently for https://officeprodeals.com/?p=698
+19:47:59	Warning: 	File has moved from https://officeprodeals.com/?p=698 to https://officeprodeals.com/about-us/
+19:47:59	Warning: 	Moved Permanently for https://officeprodeals.com/?p=964
+19:47:59	Warning: 	File has moved from https://officeprodeals.com/?p=964 to https://officeprodeals.com/my-account/
+19:48:01	Warning: 	Moved Permanently for https://officeprodeals.com/?p=695
+19:48:01	Warning: 	File has moved from https://officeprodeals.com/?p=695 to https://officeprodeals.com/contact-us/
+19:48:01	Error: 	"Not Found" (404) at link https://officeprodeals.com/contact-us/+1-888-821-5758 (from https://officeprodeals.com/contact-us/)
+19:48:02	Warning: 	Moved Permanently for https://officeprodeals.com/?p=3
+19:48:02	Warning: 	File has moved from https://officeprodeals.com/?p=3 to https://officeprodeals.com/privacy-policy/
+19:48:02	Warning: 	Moved Permanently for https://officeprodeals.com/?p=962
+19:48:02	Warning: 	File has moved from https://officeprodeals.com/?p=962 to https://officeprodeals.com/cart/
+19:48:03	Warning: 	Moved Permanently for https://officeprodeals.com/?p=1109
+19:48:03	Warning: 	File has moved from https://officeprodeals.com/?p=1109 to https://officeprodeals.com/product/microsoft-office-2007-with-software-and-key/
+19:48:08	Warning: 	Moved Permanently for https://officeprodeals.com/?p=1115
+19:48:08	Warning: 	File has moved from https://officeprodeals.com/?p=1115 to https://officeprodeals.com/product/office-2010-professional-plus/
+19:48:08	Warning: 	Moved Permanently for https://officeprodeals.com/?p=681
+19:48:08	Warning: 	File has moved from https://officeprodeals.com/?p=681 to https://officeprodeals.com/amet-commodo-nulla-facilisi-vehicula-ipsum/
+19:48:13	Warning: 	Moved Permanently for https://officeprodeals.com/?p=678
+19:48:13	Warning: 	File has moved from https://officeprodeals.com/?p=678 to https://officeprodeals.com/urnaneque-viverra-justo-ultrices-sapieneget/
+19:48:16	Warning: 	Moved Permanently for https://officeprodeals.com/?p=675
+19:48:16	Warning: 	File has moved from https://officeprodeals.com/?p=675 to https://officeprodeals.com/tristique-magna-amet-purus-gravida-quisblandit/
+19:48:18	Warning: 	Moved Permanently for https://officeprodeals.com/?p=1056
+19:48:18	Warning: 	File has moved from https://officeprodeals.com/?p=1056 to https://officeprodeals.com/cancellation-refund/
+19:48:18	Warning: 	Moved Permanently for https://officeprodeals.com/?p=1053
+19:48:18	Warning: 	File has moved from https://officeprodeals.com/?p=1053 to https://officeprodeals.com/terms-and-conditions/
+19:48:18	Warning: 	Moved Permanently for https://officeprodeals.com/?p=391
+19:48:18	Warning: 	File has moved from https://officeprodeals.com/?p=391 to https://officeprodeals.com/massa-ultricies-hendrerit-dolor-magna/
+19:48:18	Warning: 	Moved Permanently for https://officeprodeals.com/?p=1
+19:48:18	Warning: 	File has moved from https://officeprodeals.com/?p=1 to https://officeprodeals.com/fermentum-faucibus-ornare-quam-viverra/
+19:48:19	Warning: 	Moved Permanently for https://officeprodeals.com/?p=388
+19:48:19	Warning: 	File has moved from https://officeprodeals.com/?p=388 to https://officeprodeals.com/consequat-mauris-nunc-congue-suscipit/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 57 seconds : 260 links scanned, 243 files written (8131430 bytes overall) [4683185 bytes received at 40027 bytes/sec], 4956321 bytes transferred using HTTP compression in 165 files, ratio 26%, 18.5 requests per connection
+(1 errors, 32 warnings, 0 messages)
