@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+officeprodeals.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+officeprodeals.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_fa08023b69d8ac1c10cb3abea73ffddd	t_a28bbb505f2774b88a34b85f77dfac%7C%7C1723661204%7C%7C1723657604%7C%7Cc34c47d2f1c3fd5c6782dc7b80da564b
+officeprodeals.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	c1bf14751ef780b6ec0d82d3b1052036
+
