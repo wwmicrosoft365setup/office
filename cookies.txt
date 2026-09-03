@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+engaging-ads-engine.lovable.app	TRUE	/	FALSE	1999999999	__cf_bm	kb0qQcvlmT_I_uP9AGFgJrc7o.YtbBvCYPHzTA_DtjM-1787629491.46158-1.0.1.1-5b_2iTpavL65SRqsQCptxVrlh64m6eC1OPrzZCW_E9u5ckxTOs7vS8oAws7HJp56DyRiB0JpciIfiTJMvDLYHNZTu0rRuPbDLn8xFDEGgbPbMl3e99rGhoy_jkjOAMBZ
+lovable.app	TRUE	/	FALSE	1999999999	SameSite	None
+
